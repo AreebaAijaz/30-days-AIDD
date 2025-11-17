@@ -1,11 +1,15 @@
 ### What is AI Driven Development ?
 AI-driven development means using artificial intelligence tools to help build software faster and smarter. Instead of doing everything manually, developers use AI to write code, fix bugs, generate ideas, test features, and automate repetitive tasks. It’s like having an intelligent assistant that understands what you want, suggests solutions, and speeds up the whole development process, making it easier even for beginners.
 
-### MCQS 
-# 1️⃣ What is the main purpose of the AI-Native Era?
+## MCQS 
+### 1️⃣ What is the main purpose of the AI-Native Era?
+
 a) Replace developers
+
 b) Empower developers through AI tools ✅
+
 c) Eliminate coding
+
 d) Automate testing
 
 # 2️⃣ What defines an AI-driven developer?
