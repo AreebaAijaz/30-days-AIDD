@@ -12,7 +12,8 @@ c) Eliminate coding
 
 d) Automate testing
 
-# 2️⃣ What defines an AI-driven developer?
+### 2️⃣ What defines an AI-driven developer?
+
 a) Writes only syntax
 b) Creates context-aware prompts ✅
 c) Avoids tools
