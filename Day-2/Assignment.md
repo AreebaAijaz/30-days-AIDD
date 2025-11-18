@@ -4,7 +4,7 @@
 
 Because it removes boring, repeated work and lets you focus on thinking, not clicking. When AI handles setup, you spend more time understanding how systems connect, how architecture works, and how decisions impact the whole project. This helps you think like a system architect instead of just a coder.
 
-How do the Nine Pillars of AIDD help a developer grow into an M-Shaped Developer?
+### How do the Nine Pillars of AIDD help a developer grow into an M-Shaped Developer?
 
 The Nine Pillars push you to learn multiple areas—coding, architecture, automation, AI tools, testing, problem-solving, and documentation. Because you touch all these skills, you don’t stay limited to “just coding.” Instead, you grow wide (multiple skills) and deep (strong understanding), which is what an M-Shaped Developer is.
 
