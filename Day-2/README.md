@@ -27,7 +27,7 @@ It shifts you from “just writing code” to “designing systems.” You start
 Because real software is built from modules, layers, and interactions, not just lines of code. Thinking in systems helps you build apps that are clean, scalable, easy to maintain, and easy for AI agents to work on. Raw code thinking leads to confusion; system thinking leads to strong, stable projects.
 
 # PART B
-
+![Prompt Screenshot](screenshot.jpg)
 
 
 # PART C 
