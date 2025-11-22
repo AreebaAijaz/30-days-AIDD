@@ -17,3 +17,6 @@ Here are two developer tools introduced with Gemini 3.0:
 
 
 
+
+# PART B 
+![Updated Version Screenshot](screenshot.png)
