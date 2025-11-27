@@ -1,10 +1,10 @@
 Here are the screenshots: 
 
 Settings.json File:
-![Settings](settings)
+![Settings](Screenshots/settings)
 
 MCP List:
-![MCP Lit](mcp_list)
+![MCP Lit](Screenshots/mcp_list)
 
 Github Repositories:
-![Github Repositories](repositories)
+![Github Repositories](Screenshots/repositories)
