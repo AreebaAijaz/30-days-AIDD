@@ -370,6 +370,6 @@ tasks to ensure modularity and adherence to `CLAUDE.md` and `constitution.md` st
 
 
 ## Test Cases of Calculator:
-![Calculator Operation](Calculator1.jpg)
-![Calculator Operation](Calculator2.jpg)
-![Calculator Operation](Calculator3.jpg)
+![Calculator Operation](Screenshots/Calculator1.jpg)
+![Calculator Operation](Screenshots/Calculator2.jpg)
+![Calculator Operation](Screenshots/Calculator3.jpg)
